@@ -36,7 +36,7 @@ dir *.txt
 pause
 exit
 
-:direcotrios
+:directorios
 @echo off 
 mkdir alfredoff marinapg ramonam
 pause 
